@@ -1,0 +1,3 @@
+herepython-telegram-bot==20.*
+APScheduler
+python-dotenv
